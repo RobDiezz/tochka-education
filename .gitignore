@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.zip
+*.log
+.env
+.env.*
+node_modules/
+.cache/
+work/
+*-REPORT.md
+FINAL-AUDIT.md
