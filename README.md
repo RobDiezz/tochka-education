@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Реальный URL будет добавлен после публикации и проверки GitHub Pages.
+[Live Demo — ТОЧКА](https://robdiezz.github.io/tochka-education/)
 
 ## About
 
